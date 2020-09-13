@@ -5,10 +5,13 @@ splitted in the following categories:
 
 - Horrible:
 O(n!), O(2^n), O(n^2)
+
 - Bad:
 O(n Logn)
+
 - Fair:
 O(n)
+
 - Excellent:
 O(Logn), O(1)
 
